@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kolokvij</string>
+
+    <string-array name="sports">
+        <item>Opcije</item>
+        <item>Nogomet</item>
+        <item>Košarka</item>
+        <item>Rukomet</item>
+        <item>Odbojka</item>
+        <item>Tenis</item>
+    </string-array>
+
+
+    <string name="action_settings">Postavke</string>
+    <string name="title_activity_second">Druga</string>
+
+    <string name="hello_world">Bok svijete!</string>
+    <string name="Second_button">Googlaj to!</string>
+    <string name="white">Bijela</string>
+    <string name="red">Crvena</string>
+</resources>

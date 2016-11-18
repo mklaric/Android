@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsTutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bacon">Bacon</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="thirdA_button_text">Go to third activity</string>
+</resources>

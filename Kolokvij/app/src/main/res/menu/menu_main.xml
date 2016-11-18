@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item0"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/white" />
+
+        <item
+            android:id="@+id/item2"
+            android:showAsAction="never"
+            android:orderInCategory="2"
+            android:title="@string/red" />
+    </group>
+</menu>

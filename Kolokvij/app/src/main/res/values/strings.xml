@@ -1,0 +1,22 @@
+
+<resources>
+<string name="app_name">Colloquium</string>
+
+<string-array name="sports">
+    <item>Options</item>
+    <item>Football</item>
+    <item>Basketball</item>
+    <item>Handball</item>
+    <item>Volleyball</item>
+    <item>Tennis</item>
+</string-array>
+
+
+<string name="action_settings">Settings</string>
+<string name="title_activity_second">Second</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="Second_button">Google it!</string>
+<string name="white">White</string>
+<string name="red">Red</string>
+</resources>
